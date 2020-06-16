@@ -19,7 +19,9 @@ router.post("/items", (req, res) => {
 })
 
 router.get("/items/:id", (req, res) => {
-    return res.json(nameitems) && res.json(price)
+    
+    const item = items.find(val => val.id === Number(req.params.id));
+    return res.json(item);
 })
 
 router.patch("/items/:id", (req, res) => {
