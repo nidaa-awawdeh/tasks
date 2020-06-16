@@ -3,7 +3,7 @@
  
 
 * Node.js Exercises  <br>
-From rithmschoo courses :-
+From rithmschool courses :-
 
 
  Link:
