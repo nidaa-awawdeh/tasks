@@ -10,10 +10,6 @@ From rithmschool courses :-
 https://www.rithmschool.com/courses/node-express-fundamentals/node-exercises
 
 
- * Express.js Exercises
- From rithmschool courses :-
- Link :
- https://www.rithmschool.com/courses/node-express-fundamentals/express-exercises
 
- 
+
 
