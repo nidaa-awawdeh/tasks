@@ -1,41 +1,41 @@
 class NamedComponent extends React.Component {
 
-  render() {
+    render() {
 
-    return (
-      <div>
-        <p>{this.props.name}</p>
+        return (
+            <div>
+                <p>{this.props.name}</p>
 
 
 
-        <FirstComponent />
-        <SecondComponent />
+                <FirstComponent />
+                <SecondComponent />
 
-      </div>
-    );
-  }
+            </div>
+        );
+    }
 }
 
 class FirstComponent extends React.Component {
-  render() {
-    return (
-      <div>
-        <h1>My very first component.</h1>
+    render() {
+        return (
+            <div>
+                <h1>My very first component.</h1>
 
-      </div>
-    );
-  }
+            </div>
+        );
+    }
 }
 
 class SecondComponent extends React.Component {
-  render() {
-    return (
-      <div>
-        <h2>My second component</h2>
+    render() {
+        return (
+            <div>
+                <h2>My second component</h2>
 
-      </div>
-    );
-  }
+            </div>
+        );
+    }
 }
 
 ReactDOM.render(<NamedComponent name="My name is Nidaa" />, document.getElementById('app'));
