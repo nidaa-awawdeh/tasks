@@ -15,9 +15,6 @@ https://www.rithmschool.com/courses/node-express-fundamentals/node-exercises
   > link: https://github.com/rithmschool/react_exercises/tree/master/01-introduction-to-react/jsx-and-babel
  ######  Solutions  part 1 in folder name part1
  ######  Solutions  part 2 in folder name part2
- ######  Solutions  part 3 in folder name part3
- 
- ###### Props Exercises 
- > https://github.com/rithmschool/react_exercises/tree/master/02-props-state-component-architecture/props
+
 
 
