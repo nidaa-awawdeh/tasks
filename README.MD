@@ -1,15 +1,12 @@
 # tasks
- review task  <br>
- 
 
-* Node.js Exercises  <br>
-From rithmschool courses :-
+review task <br>
 
+- Node.js Exercises <br>
+  From rithmschool courses :-
 
- Link:
+Link:
 https://www.rithmschool.com/courses/node-express-fundamentals/node-exercises
-
-
 
 <hr>
  
@@ -18,6 +15,6 @@ https://www.rithmschool.com/courses/node-express-fundamentals/node-exercises
   > link: https://github.com/rithmschool/react_exercises/tree/master/01-introduction-to-react/jsx-and-babel
  ######  Solutions  part 1 in folder name part1
  ######  Solutions  part 2 in folder name part2
-  ######  Solutions  part 3 in folder name part3
+
 
 
